@@ -1,37 +1,26 @@
+# 👋 Hi, I'm Vishwajeet Kushwaha!
 
-    <h1>👋 Hi, I'm Mahi Singh!</h1>
+Welcome to my profile! Here's a little bit about me:
 
-    <p>Welcome to my profile! Here's a little bit about me:</p>
+## 🌱 What I'm Learning
+I'm diving deep into **React js** and excited about building scalable backend systems.
 
-    <h2>🌱 What I'm Learning</h2>
-    <p>I'm diving deep into <strong>Node.js</strong> and excited about building scalable backend systems.</p>
+## 👯 Collaboration Goals
+Looking to work with passionate developers on various **web development** and open-source projects. Let's create something awesome together!
 
-    <h2>👯 Collaboration Goals</h2>
-    <p>Looking to work with passionate developers on various <strong>web development</strong> and open-source projects. Let's create something awesome together!</p>
+## 💬 Let's Talk About
+Feel free to ask me anything about **C++, HTML, CSS, JavaScript, React**, or **competitive programming**. I'm always open to sharing what I've learned!
 
-    <h2>🤝 How You Can Help</h2>
-    <p>If you're experienced in full-stack development or have tips on optimizing backend systems, I'd love your insights to help with my projects.</p>
+## 🚀 Projects (Coming Soon)
+Stay tuned for some exciting projects that I'm working on. Updates will be available soon!
 
-    <h2>💬 Let's Talk About</h2>
-    <p>Feel free to ask me anything about <strong>C++, HTML, CSS, JavaScript, React</strong>, or <strong>competitive programming</strong>. I'm always open to sharing what I've learned!</p>
+## 📫 Get in Touch
+If you'd like to reach me, you can email me at [vishwajeet8110@gmail.com](mailto:vishwajeet8110@gmail.com). I’m always open to new ideas and collaboration opportunities!
 
-    <h2>🚀 Projects (Coming Soon)</h2>
-    <p>Stay tuned for some exciting projects that I'm working on. Updates will be available soon!</p>
+## ⚡ Fun Fact
+I often challenge myself to code daily, and I find that it helps me stay motivated and improve my skills consistently! 💻
 
-    <h2>📫 Get in Touch</h2>
-    <p>If you'd like to reach me, you can email me at <a href="mailto:mahi13singh2004@gmail.com">mahi13singh2004@gmail.com</a>. I’m always open to new ideas and collaboration opportunities!</p>
 
-    <h2>⚡ Fun Fact</h2>
-    <p>When I'm not coding, you can find me binge-watching my favorite TV series. It's my way of relaxing after a long day! 🎬</p>
+Let's stay connected and build something great! 🚀
 
-    <h2>🔗 Let's Connect!</h2>
-    <p>Here are some places where you can find me online:</p>
-    <ul>
-        <li><a href="https://www.codechef.com/users/mahi13singh" target="_blank">CodeChef</a></li>
-        <li><a href="https://www.hackerrank.com/profile/mahi13singh2004" target="_blank">HackerRank</a></li>
-        <li><a href="https://codeforces.com/profile/mahi13singh" target="_blank">Codeforces</a></li>
-        <li><a href="https://leetcode.com/u/mahi13singh2004/" target="_blank">LeetCode</a></li>
-    </ul>
-
-    <p>Let's stay connected and build something great! 🚀</p>
 
