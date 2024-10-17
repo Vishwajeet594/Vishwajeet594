@@ -3,10 +3,10 @@
 <h4>Welcome to my profile! Here's a little bit about me:</h4>
 
 ## 👯 Collaboration Goals
-<h4>Looking to work with passionate developers on various **web development** and open-source projects. Let's create something awesome together!</h4>
+<h4>Looking to work with passionate developers on various web development and open-source projects. Let's create something awesome together!</h4>
 
 ## 💬 Let's Talk About
-<h4>Feel free to ask me anything about **C++, HTML, CSS, JavaScript, React**, or **competitive programming**. I'm always open to sharing what I've learned!</h4>
+<h4>Feel free to ask me anything about C++, HTML, CSS, JavaScript, React, or competitive programming. I'm always open to sharing what I've learned!</h4>
 
 
 ## 📫 Get in Touch
