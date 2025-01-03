@@ -1,16 +1,7 @@
 # 👋 Hi, I'm Vishwajeet Kushwaha!
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-<h4>Welcome to my profile! Here's a little bit about me:</h4>
+<h4>Welcome to my profile!</h4>
 
-## 👯 Collaboration Goals
-<h4>Looking to work with passionate developers on various web development and open-source projects. Let's create something awesome together!</h4>
-
-## 💬 Let's Talk About
-<h4>Feel free to ask me anything about C++, HTML, CSS, JavaScript, React, or competitive programming. I'm always open to sharing what I've learned!</h4>
-
-
-## 📫 Get in Touch
-<h4>If you'd like to reach me, you can email me at vishwajeet8110@gmail.com  I’m always open to new ideas and collaboration opportunities!</h4>
 
 
 
