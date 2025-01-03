@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vishwajeet Kushwaha!
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+
 <h4>Welcome to my profile!</h4>
 
 
@@ -18,12 +18,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishwajeet594&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=transparent)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishwajeet594&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=transparent)
 ---
 [![](https://visitcount.itsvg.in/api?id=vishwajeet594&icon=4&color=0)](https://visitcount.itsvg.in)
 
